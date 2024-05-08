@@ -8,4 +8,5 @@ Será incrível e desafiador participar disso, mas estou animada para compartilh
 ## 📅 Rotina de estudos
 |Dia|Tema|Descrição|
 |:---:|:---|:---|
-|01|Programação Orientada a Objetos com Java | Implementação de alguns conceitos de Programação Orientada a Objetos em um sistema de gerenciamento de livros em uma biblioteca, foi utilizado a linguagem Java para essa implementação 
+|01|Programação Orientada a Objetos com Java | Implementação de alguns conceitos de Programação Orientada a Objetos em um sistema de gerenciamento de livros em uma biblioteca, foi utilizado a linguagem Java para essa implementação|
+|02|Programação Orientada a Objetos com Java| Realização de exercícios de fixação da Alura + desafio final do curso de Orientação a Objetos|
